@@ -83,3 +83,23 @@ a{
 section{
     padding: 4% 0;
 }
+
+header{
+    height:80vh;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:center;
+    background-image: url('../images/header.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    text-align:center;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    width:100%;
+    position:fixed;
+    background-color:rgba(255,255,255,0.8);
+}
