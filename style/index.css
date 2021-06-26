@@ -162,3 +162,38 @@ footer{
     justify-content:center;
     align-items: center;
 }
+
+.img-wrapper{
+    width:50%;
+}
+footer h3{
+    text-align:left;
+}
+.text-container{
+    line-height:2;
+}
+.copyright{
+    text-align:right;
+    margin-right:10%;
+}
+
+
+/*Media Queries*/
+@media(max-width:800px){
+    #about{
+        background-position: left top;
+    }
+    #about div{
+        margin-top:5%;
+        width:35%;
+    }
+    .container .text div{
+        width:70%;
+    }
+    .img-wrapper{
+        width:70%;
+    }
+    .container p{
+        text-align:left;
+    }
+}/*this closes the 800px media query*/
