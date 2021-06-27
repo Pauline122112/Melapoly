@@ -122,6 +122,10 @@ nav{
     align-items: center;
 }
 
+.technical h3{
+   
+}
+
 #employment{
     display:flex;
     justify-content: flex-end;
