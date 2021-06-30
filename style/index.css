@@ -100,7 +100,7 @@ header{
 nav {
     display:flex;
     justify-content: space-around;
-    align-items: stretch;
+    
     top: 10px;;
     width:100%;
     z-index: 999;
@@ -204,7 +204,9 @@ footer h3{
     margin-right:10%;
 }
 
-
+.links{
+    text-align: right;
+}
 /*Media Queries*/
 @media(max-width:800px){
     #about{
