@@ -99,7 +99,7 @@ header{
 }
 nav {
     display:flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: stretch;
     top: 10px;;
     width:100%;
@@ -109,7 +109,7 @@ nav {
     height: 10vh;
 }
 
-.btn-one {
+/*.btn-one {
     display:flex;
     justify-content: space-evenly;
     background-color: #35b8c0;
@@ -123,10 +123,10 @@ nav {
     text-shadow: 0 1px 0 rgb(0 0 0 / 15%);
     box-shadow: 0 1px 0 rgb(255 255 255 / 34%) inset, 0 2px 0 -1px rgb(0 0 0 / 13%), 0 3px 0 -1px rgb(0 0 0 / 8%), 0 3px 13px -1px rgb(0 0 0 / 21%);
 }
+*/
 
 
-
-.logo{
+/*.logo{
     width:10%;
     display:flex;
     justify-content: center;
@@ -142,6 +142,7 @@ nav {
     justify-content: space-evenly;
     align-items: center;
 }
+*/
 
 
 .technical h3{
